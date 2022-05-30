@@ -7,6 +7,3 @@
 
 <a href='https://www.youtube.com/channel/UCaOChZr-KkSGh9g5-SVG64Q' target='_blank'>Youtube instruction videos</a><br>
 
-
-
-AAT release 3.2.2 - User guide v1.4 
